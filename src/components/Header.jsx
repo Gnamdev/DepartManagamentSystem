@@ -7,7 +7,7 @@ import { AiOutlineLogout } from "react-icons/ai";
 import Swal from "sweetalert2";
 
 const Header = () => {
-  const [brandName, setBrandName] = useState("DepartMent Inforamtion System");
+  const [brandName, setBrandName] = useState("DepartMent Information System");
   const [menuLinks, setMenuLinks] = useState([
     {
       title: "Home",

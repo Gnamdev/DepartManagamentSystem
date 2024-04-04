@@ -162,7 +162,7 @@ const UpdateEmployee = () => {
                   />
                 </div>
 
-                {/* for salary */}
+                {/* for salary} */}
 
                 <div class="block relative">
                   <label
@@ -181,7 +181,7 @@ const UpdateEmployee = () => {
                   />
                 </div>
 
-                {/* for role */}
+                {/* {/* for role */}
 
                 <div class="block relative">
                   <label
